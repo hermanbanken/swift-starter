@@ -1,0 +1,28 @@
+PODS:
+  - JGProgressHUD (1.3.1)
+  - NSDate-Extensions-iOS7 (1.0.1)
+  - NSURL+QueryDictionary (1.1.0)
+  - pop (1.0.8)
+  - PureLayout (1.1.0)
+  - R.swift (0.10.0)
+  - RSBarcodes (0.1.4)
+
+DEPENDENCIES:
+  - JGProgressHUD (~> 1.2)
+  - NSDate-Extensions-iOS7 (~> 1.0)
+  - NSURL+QueryDictionary (~> 1.0)
+  - pop (~> 1.0)
+  - PureLayout (~> 1.1)
+  - R.swift (~> 0.10.0)
+  - RSBarcodes (~> 0.1)
+
+SPEC CHECKSUMS:
+  JGProgressHUD: 153053a21d81208cb5f659691996bcefce6a9885
+  NSDate-Extensions-iOS7: 8ff45f790879730314b847cb262936952989077e
+  NSURL+QueryDictionary: dd0a5fec689a9b4780b6fa0e0225c01ca3ea653e
+  pop: bb773ae2c791ca2629de13b347e7a8b450fa6a57
+  PureLayout: 461724f6da2da366709e5fe6e6006f6039b7c2dd
+  R.swift: 35b88417f9f9ef7f5f9af4ec775df5e38fa1565a
+  RSBarcodes: 6b062b5aba3e75a5e889b2465ef1bb256215fbd0
+
+COCOAPODS: 0.39.0

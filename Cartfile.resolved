@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "2.0.2"
+github "mac-cain13/CoreDataKit" "0.9.0"
+github "tomlokhorst/SegueManager" "1.1.0"
+github "tomlokhorst/Promissum" "2473d103b5bb0609ad5da5946a97851a5b6438be"

@@ -1,0 +1,2 @@
+github "tomlokhorst/Promissum" "feature/carthage"
+github "tomlokhorst/SegueManager" ~> 1.1
