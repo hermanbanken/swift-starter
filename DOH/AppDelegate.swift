@@ -13,9 +13,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
   var window: UIWindow?
 
+  var networkManager: NetworkActivityIndicatorManager
+  var apiService: ApiService
+
+  override init() {
+    networkManager = NetworkActivityIndicatorManager()
+    apiService = HttpApiService(endpoint: .Production, networkActivityIndicatorManager: networkManager)
+  }
 
   func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
     // Override point for customization after application launch.
+
+    apiService.getItems("test")
+
     return true
   }
 

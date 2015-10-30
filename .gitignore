@@ -41,3 +41,5 @@ Carthage/Build
 
 fastlane/report.xml
 fastlane/screenshots
+
+node_modules/
